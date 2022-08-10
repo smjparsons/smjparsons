@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smjparsons
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science (Maybe Data Engineering now...)
 - 🌱 I’m currently learning with Divergence Academy
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ... smjparsons@gmail.com
