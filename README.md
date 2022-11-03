@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @smjparsons
-- 👀 I’m interested in Data Science (Maybe Data Engineering now...)
+- 👋 Hi, I’m Stephen (itr8r on discord)
+- 👀 I’m interested in Data Warehousing.
 - 🌱 I’m currently learning with Divergence Academy
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking to collaborate, learn, try and try again...
 - 📫 How to reach me ... smjparsons@gmail.com
 
 <!---
